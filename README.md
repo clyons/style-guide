@@ -59,7 +59,7 @@ Gengo Style Guide
 6. run `travis encrypt` with adequate options, to replace some environment variables
  - `GH_TOKEN`,`GIT_NAME`,`GIT_EMAIL` are replaced
  - run `travis encrypt`
- - see exmample below.
+ - see example below.
 
 7. Enable your repository in [Travis CI](https://travis-ci.org/profile/vwxyz)
 

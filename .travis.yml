@@ -12,6 +12,6 @@ after_success: "./deploy.sh"
 env:
   global:
   - GIT_NAME=Travis-CI
-  - GIT_EMAIL=gengo+travis@github.com
+  - GIT_EMAIL=ciaran.lyons@gmail.com
   - GIT_DOMAIN=github.com
-  - secure: ZRelWQOC60Dk+2wxyYQLGT/79wqgdtbzXqfD6fgGfAIDBAdf/+yvm6mFuhfCqz+ofdHW/VHsao+Mr9ua2ZMDHYeKfzzFmkaCIJeYJy//kepj5W3E0WuhKpSAWQs+rVEIGap2U6PMPJMVXL9SoIpXqRD2qf5oPzdrcVxkqEnAUH4=
+  - secure: Nd2fJIq2ovQj/fPVmdPcgN/ErZIQCoIUKOZrCw+knlm5vy5mRoKOsR37AG5B+WNU84ERCAvrI+YZSaloumDfzSLUZ4R5MKJ/OeJXZXRS5j0Q5TmTCcjKS4POEC4asd8jq4vznyc0VT54p6xXSFIM84f4Y9E4UgDKWPUyPfGGk78J+R2lo92Oln+QvSWG4uYXamUPfm+E/Jq92rySwDPYlA9tekE02lsmYqR/N2wqcD2VdKkXE3YZH1dxAr5Zi60ySKWjKjU1Rduz6m0qweYcZ5Jaq/86TQqMIUyZ2wNpNcI9m1DPJGo5c8hGDbSkWL46sq41i2s9uumYPbLOTEnetW1IWhVypDETp2LPTNeM6kJ8jCsOJtbucUOaIVro8m17eeKCsY6xCYZb+owRE82JKzSCSFBg69nifC1Vpy8mQ+lEbbIoEjCWpTTd7t79AsYRZUONdu8w7gtQg/iCSn8XRiTrSEHPrwyVK1112KZh0Gg2vb9oV5f8LrAAba1spLD9WK9HqBQgvSgnDv1UNbChkMYYj3B0bp1gImxd60xkWjhd279Ijou6ApWN+cOWU7kspMVbWz7DH5UwsmIIvrR7lyzkGYsxXTxFt5ywODn8/ougFgvYcVXz5utpDmQbyxw5bIt/Ln7BOEGc9sRXjlyi3k0KME8haYMc1nXN5cwGet8=
