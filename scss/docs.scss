@@ -52,6 +52,39 @@ body > .container {
     height: 96px;
     border-radius: 3px;
 
+    &.lgd-greenery {
+      background-color: $lgd-greenery;
+    }
+    &.lgd-serenity {
+      background-color: $lgd-serenity;
+    }
+    &.lgd-rose-quartz {
+      background-color: $lgd-rose-quartz;
+    }
+    &.lgd-twilight-purple {
+      background-color: $lgd-twilight-purple;
+    }
+    &.lgd-orion-blue {
+      background-color: $lgd-orion-blue;
+    }
+    &.lgd-calypso-coral {
+      background-color: $lgd-calypso-coral;
+    }
+    &.lgd-nimbus-cloud {
+      background-color: $lgd-nimbus-cloud;
+    }
+    &.lgd-black-onyx {
+      background-color: $lgd-black-onyx;
+    }
+    &.lgd-periscope {
+      background-color: $lgd-periscope;
+    }
+    &.lgd-gray-pinstripe {
+      background-color: $lgd-gray-pinstripe;
+    }
+    &.lgd-drizzle {
+      background-color: $lgd-drizzle;
+    }
     &.gengo-green {
       background-color: $gengo-green;
     }

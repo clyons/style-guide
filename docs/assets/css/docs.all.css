@@ -42,7 +42,7 @@ body > .container {
 }
 
 .colors {
-  font-size: 12px;
+  font-size: 14px;
 }
 .colors h3 {
   margin-bottom: 18px;
@@ -57,6 +57,39 @@ body > .container {
   width: 100%;
   height: 96px;
   border-radius: 3px;
+}
+.colors .color-box.lgd-greenery {
+  background-color: #88b04b;
+}
+.colors .color-box.lgd-serenity {
+  background-color: #91a8d0;
+}
+.colors .color-box.lgd-rose-quartz {
+  background-color: #f7cac9;
+}
+.colors .color-box.lgd-twilight-purple {
+  background-color: #6a698f;
+}
+.colors .color-box.lgd-orion-blue {
+  background-color: #4c5b67;
+}
+.colors .color-box.lgd-calypso-coral {
+  background-color: #ec5d73;
+}
+.colors .color-box.lgd-nimbus-cloud {
+  background-color: #dfdfe3;
+}
+.colors .color-box.lgd-black-onyx {
+  background-color: #2b272b;
+}
+.colors .color-box.lgd-periscope {
+  background-color: #4c4b55;
+}
+.colors .color-box.lgd-gray-pinstripe {
+  background-color: #49494d;
+}
+.colors .color-box.lgd-drizzle {
+  background-color: #9a9b98;
 }
 .colors .color-box.gengo-green {
   background-color: #1cad7e;
@@ -326,7 +359,7 @@ body > .container {
 .icons [class^="icon-"],
 .icons [class*=" icon-"] {
   display: block;
-  font-size: 16px;
+  font-size: 18px;
   opacity: .3;
 }
 .icons .item {
@@ -490,7 +523,7 @@ body > .container {
 .brand-character ul > li > div {
   display: inline-block;
   width: 49%;
-  font-size: 12px;
+  font-size: 14px;
 }
 .brand-character ul > li .title {
   color: #fff;

@@ -8,7 +8,20 @@ $bootstrap-sass-asset-helper: (twbs-font-path("") != unquote('twbs-font-path("")
 //
 //## Gray and brand colors for use across Bootstrap.
 
-//## Gengo related colors
+//## Little Green Dot related colors
+
+$lgd-greenery:          #88b04b !default;
+$lgd-serenity:          #91a8d0 !default;
+$lgd-rose-quartz:       #f7cac9 !default;
+$lgd-twilight-purple:   #6a698f !default;
+$lgd-orion-blue:        #4c5b67 !default;
+$lgd-calypso-coral:     #ec5d73 !default;
+$lgd-nimbus-cloud:      #dfdfe3 !default;
+$lgd-black-onyx:        #2b272b !default;
+$lgd-periscope:         #4c4b55 !default;
+$lgd-gray-pinstripe:    #49494d !default;
+$lgd-drizzle:           #9a9b98 !default;
+
 $gengo-gray:            #4d4843 !default;
 $gengo-gray-light:      #a6a3a1 !default;
 $gengo-blue:            #98d7cc !default;
@@ -74,9 +87,9 @@ $font-normal:            400 !default;
 $font-semibold:          600 !default;
 $font-bold:              700 !default;
 
-$font-size-large:         16px !default;
-$font-size-base:          14px !default;
-$font-size-small:         12px !default;
+$font-size-large:         18px !default;
+$font-size-base:          16px !default;
+$font-size-small:         14px !default;
 
 
 $font-size-h1:            30px !default;
