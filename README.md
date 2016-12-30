@@ -1,8 +1,9 @@
-[![Build Status](https://travis-ci.org/clyons/style-guide.svg?branch=master)](https://travis-ci.org/clyons/style-guide)
-
-
 Little Green Dot Style Guide
 ===========
+
+## Build Status
+
+[![Build Status](https://travis-ci.org/clyons/style-guide.svg?branch=master)](https://travis-ci.org/clyons/style-guide)
 
 ## Acknowledgements
 
