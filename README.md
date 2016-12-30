@@ -41,12 +41,12 @@ Forked from [gengo/style-guide](https://github.com/gengo/style-guide)
 ## How to test auto deployment ?
 
 
-###requirement
+### Requirements
 
 1. [Travis CI Client](https://github.com/travis-ci/travis.rb)
 2. [github personal api tokens](https://github.com/blog/1509-personal-api-tokens)
 
-###instruction
+### Instructions
 
 
 1. `fork` [gengo/style-guide](https://github.com/gengo/style-guide)
