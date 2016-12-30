@@ -1,8 +1,12 @@
 [![Build Status](https://travis-ci.org/clyons/style-guide.svg?branch=master)](https://travis-ci.org/clyons/style-guide)
 
 
-Gengo Style Guide
+Little Green Dot Style Guide
 ===========
+
+## Acknowledgements
+
+Forked from [gengo/style-guide](https://github.com/gengo/style-guide)
 
 ## Setup
 
