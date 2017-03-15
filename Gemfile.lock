@@ -91,6 +91,3 @@ DEPENDENCIES
   mercenary
   sass
   scss-lint
-
-BUNDLED WITH
-   1.10.3
